@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+
     <color name="Primary_Color">#003B8E</color>
     <color name="Primary_mid">#1564BF</color>
     <color name="primary_ice">#5E91F2</color>
@@ -26,7 +27,7 @@
     <color name="defaultButton">#E1E6E9</color>
     <color name="Expense">#FA897B</color>
     <color name="Income">#DDE6A5</color>
-    <color name="Debts">#FED436</color>
+    <color name="Debts">#03A9F4</color>
 
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>

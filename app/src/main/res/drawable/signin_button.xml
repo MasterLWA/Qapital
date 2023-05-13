@@ -12,6 +12,7 @@
         android:topRightRadius="40dp"/>
     <stroke
         android:width="2dp"
-        android:color="@color/Primary_Color"/>
+        android:color="@color/white"
         />
+
 </shape>
